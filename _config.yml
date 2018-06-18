@@ -1,9 +1,9 @@
 # Site settings
 # Site title
-title: Coming Soon
+title: 9th Circle Games // Brand New Worlds
 
 # Site description
-description: A fancy description of the site
+description: Indie game design studio specializzato in giochi di ruolo e di narrazione. Autori del pluripremiato RPG "Eden: l'Inganno"
 
 # Site background
 background: "images/background.jpg"
@@ -13,33 +13,34 @@ logo: "images/logo.png"
 
 # Countdown clock
 # (This can be commented out if not required.)
-countdown:
+#countdown:
   # format: "2013-09-25 16:00:00 +0800"
-  launch_date: 2020-01-01
+#  launch_date: 2020-01-01
   # %d, %H, %M, %S available
-  format: "%d days, %H hours, %M minutes, %S seconds"
+#  format: "%d days, %H hours, %M minutes, %S seconds"
 
 # Mailing list subscription
 # (This can be commented out if not required.)
 subscribe:
-  action: "/thank-you"
+  action: ""
+
 
 # Social media links
 # (This can be commented out if not required.)
 social:
-  facebook: "#"
-  twitter: "#"
-  google: "#"
-  instagram: "#"
-  pinterest: "#"
-  snapchat: "#"
-  linkedin: "in/#"
+  facebook: "9thcirclegames"
+#  twitter: "#"
+#  google: "#"
+#  instagram: "#"
+#  pinterest: "#"
+#  snapchat: "#"
+  linkedin: "company/9th-circle-games/"
 
 # Build settings
 markdown: kramdown
 
-url : "https://9thcirclegames.github.io"
-baseurl : "/9thcircle.comingsoon"
+url : "https://9thcircle.it"
+baseurl : "/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

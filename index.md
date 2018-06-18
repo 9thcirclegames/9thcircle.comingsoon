@@ -5,6 +5,4 @@ permalink: /
 
 # Coming soon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
-
+Lo studio è tornato in attività! Resta in contatto con noi per scoprire i nostri nuovi giochi in sviluppo e le nostre iniziative!
