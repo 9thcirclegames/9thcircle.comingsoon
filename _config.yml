@@ -38,6 +38,9 @@ social:
 # Build settings
 markdown: kramdown
 
+url : "https://9thcirclegames.github.io"
+baseurl : "/9thcircle.comingsoon"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
